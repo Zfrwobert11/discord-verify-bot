@@ -1,0 +1,8 @@
+piplibcrypto
+nextcord
+cryptography
+websockets
+colorama
+requests
+urllib3
+print('bqjvxtvyuv')
